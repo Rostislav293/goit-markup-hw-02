@@ -43,15 +43,8 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #2e2f42;
+  text-align: left;
 }
-font-family: Raleway;
-font-size: 18px;
-font-weight: 700;
-line-height: 21px;
-letter-spacing: 0.03em;
-text-align: left;
-text-underline-position: from-font;
-text-decoration-skip-ink: none;
 
 .header-logo-span {
   font-family: "Raleway", sans-serif;
@@ -77,18 +70,6 @@ text-decoration-skip-ink: none;
   color: #404bbf;
 }
 
-.header-address {
-}
-.header-address-menu {
-}
-.header-address-menu-item {
-}
-.header-address-menu-ling {
-}
-
-.header-address-menu-item {
-}
-
 .header-address-menu-ling {
   color: #434455;
   font-style: normal;
@@ -105,7 +86,6 @@ text-decoration-skip-ink: none;
 
 .effective-title {
   color: #ffffff;
-  font-family: Roboto;
   text-align: center;
   font-size: 56px;
   font-weight: 700;
@@ -159,12 +139,7 @@ text-decoration-skip-ink: none;
   line-height: 1.11;
   letter-spacing: 0.02em;
 }
-.people-list {
-}
-.people-item {
-}
-.people-image {
-}
+
 .people-subtitle {
   color: #2e2f42;
   font-size: 20px;
@@ -181,21 +156,6 @@ text-decoration-skip-ink: none;
 }
 
 /* ----------------Portfolio--------------------- */
-
-.portfolio {
-}
-.portfolio-title {
-}
-.portfolio-list {
-}
-.portfolio-item {
-}
-.portfolio-image {
-}
-.portfolio-subtitle {
-}
-.portfolio-text {
-}
 
 /* ---------------------Footer ---------------- */
 
