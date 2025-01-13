@@ -32,6 +32,10 @@ a {
 }
 
 /* -----------------------header---------------------  */
+.header-menu-item {
+  color: #e7e9fc;
+}
+
 .header-logo {
   font-family: "Raleway", sans-serif;
   font-size: 18px;
