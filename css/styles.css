@@ -136,7 +136,7 @@ a {
 /*-------------------- People--------------------- */
 
 .people {
-  color: #f4f4fd;
+  background-color: #f4f4fd;
 }
 
 .peopl-title {
@@ -151,6 +151,7 @@ a {
 
 .people-subtitle {
   color: #2e2f42;
+  background-color: #ffffff;
   font-family: "sans-seri";
   font-size: 20px;
   font-weight: 500;
@@ -159,6 +160,7 @@ a {
 }
 
 .people-text {
+  color: #434455;
   font-family: "sans-seri";
   font-size: 16px;
   font-weight: 400;
