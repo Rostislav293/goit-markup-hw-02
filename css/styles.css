@@ -170,6 +170,42 @@ a {
 
 /* ----------------Portfolio--------------------- */
 
+.portfolio {
+  color: #e7e9fc;
+}
+.portfolio-title {
+  color: #2e2f42;
+}
+.portfolio-list {
+  color: #e7e9fc;
+}
+.portfolio-item {
+}
+.portfolio-image {
+}
+.portfolio-subtitle {
+  color: #2e2f42;
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.portfolio-text {
+  color: #434455;
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
 /* ---------------------Footer ---------------- */
 
 .footer {
