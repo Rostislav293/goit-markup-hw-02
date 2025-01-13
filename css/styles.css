@@ -44,6 +44,8 @@ a {
   letter-spacing: 0.03em;
   color: #2e2f42;
   text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .header-logo-span {
@@ -53,6 +55,9 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
 }
 
 .header-menu-link {
@@ -63,7 +68,8 @@ a {
   letter-spacing: 0.02em;
 }
 
-.header-menu-link:hover {
+.header-menu-link:hover,
+.header-menu-link:focus {
   color: #404bbf;
 }
 .header-menu-link studio:active {
@@ -75,7 +81,8 @@ a {
   font-style: normal;
 }
 
-.header-address-menu-ling:hover {
+.header-address-menu-ling:hover,
+.header-address-menu-ling:focus {
   color: #404bbf;
 }
 /* --------------------effect---------------- */
@@ -129,7 +136,7 @@ a {
 /*-------------------- People--------------------- */
 
 .people {
-  background-color: #f4f4fd;
+  color: #f4f4fd;
 }
 
 .peopl-title {
